@@ -10,5 +10,7 @@ Plays SPC files. Still needs some work, but a lot of SPCs should play fine or we
 Navigate directories with the D-Pad (Up/Down by individual, Left/Right by blocks)
 
 X - Exit player
+
 A - Play selected SPC file (or enter/exit directory)
+
 B - Stop playback
